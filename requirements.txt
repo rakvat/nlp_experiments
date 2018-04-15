@@ -1,0 +1,12 @@
+jupyter
+matplotlib
+pandas
+scikit-learn
+nltk
+beautifulsoup4
+spacy
+requests
+gensim
+numpy
+scipy
+plotly
